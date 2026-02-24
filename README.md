@@ -1,4 +1,4 @@
-# Bilibili 评论盖楼小助手 (Bili-comment_stacker)
+# B站评论盖楼 (Bili-comment_stacker)
 
 用于在指定的 Bilibili 视频评论区，自动抓取最新的评论进度（如中V打卡），并按设定的时间间隔，自动发送递增的序列评论。
 
